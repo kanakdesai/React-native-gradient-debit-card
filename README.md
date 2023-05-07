@@ -4,6 +4,7 @@
 
 ![](https://github.com/kanakdesai/React-native-gradient-debit-card/blob/main/product.png=250x250)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 This npm package is for people who want to add a Debit Card in their React Native app. 
 
