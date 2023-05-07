@@ -2,7 +2,7 @@
 
 ## About The Project
 
-
+![](https://github.com/kanakdesai/React-native-gradient-debit-card/blob/main/product.png)
 This npm package is for people who want to add a Debit Card in their React Native app. 
 
 There are 3 Gradient colors. 
