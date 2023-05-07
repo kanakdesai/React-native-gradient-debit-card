@@ -1,0 +1,24 @@
+{
+  "name": "react-native-gradient-debit-card",
+  "version": "1.0.3",
+  "description": "Gradient debit card with option to hide card number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanak desai",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-linear-gradient": "^2.6.2"
+  },
+  "keywords": [
+    "debit",
+    "card",
+    "credit",
+    "card",
+    "react",
+    "native"
+  ]
+}
