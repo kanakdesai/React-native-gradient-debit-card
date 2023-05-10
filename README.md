@@ -3,7 +3,7 @@
 ## About The Project
 
 ![](https://github.com/kanakdesai/React-native-gradient-debit-card/blob/main/recording1.gif)
-<a href="url"><img src="https://github.com/kanakdesai/React-native-gradient-debit-card/blob/main/product.png" align="left" height="841" width="513" ></a>
+<a href="url"><img src="https://github.com/kanakdesai/React-native-gradient-debit-card/blob/main/product.png" align="center" height="841" width="513" ></a>
 
 
 
